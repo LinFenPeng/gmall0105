@@ -1,6 +1,4 @@
-package com.lin.gmall.user.bean;
-
-import tk.mybatis.mapper.common.Mapper;
+package com.lin.gmall.bean;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

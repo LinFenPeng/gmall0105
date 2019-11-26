@@ -1,7 +1,7 @@
-package com.lin.gmall.user.service;
+package com.lin.gmall.service;
 
-import com.lin.gmall.user.bean.UmsMember;
-import com.lin.gmall.user.bean.UmsMemberReceiveAddress;
+import com.lin.gmall.bean.UmsMember;
+import com.lin.gmall.bean.UmsMemberReceiveAddress;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

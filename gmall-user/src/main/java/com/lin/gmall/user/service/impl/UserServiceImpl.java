@@ -1,10 +1,10 @@
 package com.lin.gmall.user.service.impl;
 
-import com.lin.gmall.user.bean.UmsMember;
-import com.lin.gmall.user.bean.UmsMemberReceiveAddress;
+import com.lin.gmall.service.UserService;
+import com.lin.gmall.bean.UmsMember;
+import com.lin.gmall.bean.UmsMemberReceiveAddress;
 import com.lin.gmall.user.mapper.UmsMemberReceiveAddressMapper;
 import com.lin.gmall.user.mapper.UserMapper;
-import com.lin.gmall.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
